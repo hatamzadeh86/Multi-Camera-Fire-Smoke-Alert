@@ -278,7 +278,7 @@ services:
 
 
 # Web Dashboard
-html 
+ 
 <p align="center">
   <img src="Screenshot 2026-08-10 120815.png" alt="result_Images" width="800">
 </p>
