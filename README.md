@@ -290,7 +290,7 @@ https://github.com/hatamzadeh86/Multi-Camera-Fire-Smoke-Alert/blob/main/result_I
 
 ### Video Output
 <p align="center">
-  <img src="screenshots/video_output.gif" alt="Video Output" width="600">
+  <img src="screenshots/video_output.gif" alt="Video Output" width="400">
 </p>
 
 ---
