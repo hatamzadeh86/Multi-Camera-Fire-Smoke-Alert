@@ -248,24 +248,6 @@ cameras = [
 
 ---
 
-## Docker Deployment
-
-### Build and Run
-
-bash
-# Build image
-docker-compose build
-
-# Run in background
-docker-compose up -d
-
-# View logs
-docker-compose logs -f
-
-# Stop
-docker-compose down
-
-### docker-compose.yml
 
 yaml
 version: '3.8'
@@ -295,9 +277,8 @@ services:
 ## Sample Outputs
 
 ### Web Dashboard
-<p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard" width="800">
-</p>
+![Uploading alert_FIRE_DETECTED_20260808_111709.jpg…]()
+
 
 ### Telegram Alert
 <p align="center">
