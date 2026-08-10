@@ -276,9 +276,9 @@ services:
 
 ## Sample Outputs
 
-### Web Dashboard
-Multi-Camera-Fire-Smoke-Alert/result_Images
-/Screenshot 2026-08-10 120815.png
+
+[Web Dashboard](Multi-Camera-Fire-Smoke-Alert/result_Images
+/Screenshot 2026-08-10 120815.png)
 
 
 ### Telegram Alert
