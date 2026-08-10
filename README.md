@@ -177,7 +177,7 @@ The final model is converted to ONNX format to:
 ### Installation
 
 1. Clone the repository
-git clone https://github.com/your-username/smart-fire-monitoring.git
+git clone https://github.com/hatamzadeh86/Multi-Camera-Fire-Smoke-Alert.git
 cd smart-fire-monitoring
 2. Install dependencies
 pip install -r requirements.txt
