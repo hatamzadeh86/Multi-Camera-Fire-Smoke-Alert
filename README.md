@@ -283,19 +283,14 @@ services:
   <img src='result_Images/Screenshot%202026-08-10%20120815.png' alt="result_Images" width="800">
 </p>
 
+---
 
-
-### Telegram Alert
+# Telegram Alert
 
 <p align="center">
   <img src='result_Images/Screenshot%202026-08-10%20120931.png' alt="result_Images" width="800">
 </p>
 
-
-### Video Output
-<p align="center">
-  <img src="screenshots/video_output.gif" alt="Video Output" width="400">
-</p>
 
 ---
 
@@ -329,15 +324,38 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-- Email: your-email@example.com
-- LinkedIn: Your LinkedIn Profile
+- Email: activedirectoryn@gmail.com
+- LinkedIn: https://www.linkedin.com/in/amir-mohammad-hatemzadeh-44b2a138b/
 - Github : https://github.com/hatamzadeh86
+
+---
+## Model Weights
+
+The trained model weights (best.pt and best.onnx) are not publicly available in this repository.
+
+These weights are the core intellectual property of this project and took significant time and resources to develop.
+
+### How to Request Access
+
+If you need the weights for:
+
+- Academic research or university projects
+- Non-commercial testing and evaluation
+- Commercial use with proper licensing
+
+Please contact me directly with a brief explanation of your use case:
+
+📧 Email: activedirectoryn@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/amir-mohammad-hatemzadeh-44b2a138b/](https://linkedin.com/in/your-profile)
+
+Important: Without a valid reason, your request will not be processed.
+
+
 
 ---
 
 <p align="center">
   Made with ❤️ and ☕
 </p>
----
 
-## Dataset & Training
+
