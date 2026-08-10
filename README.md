@@ -286,7 +286,11 @@ services:
 
 
 ### Telegram Alert
-https://github.com/hatamzadeh86/Multi-Camera-Fire-Smoke-Alert/blob/main/result_Images/Screenshot%202026-08-10%20120931.png?raw=true
+
+<p align="center">
+  <img src='result_Images/Screenshot%202026-08-10%20120931.png' alt="result_Images" width="800">
+</p>
+
 
 ### Video Output
 <p align="center">
