@@ -281,10 +281,9 @@ services:
 /Screenshot 2026-08-10 120815.png)
 
 
+
 ### Telegram Alert
-<p align="center">
-  <img src="screenshots/telegram_alert.jpg" alt="Telegram Alert" width="400">
-</p>
+https://github.com/hatamzadeh86/Multi-Camera-Fire-Smoke-Alert/blob/main/result_Images/Screenshot%202026-08-10%20120931.png?raw=true
 
 ### Video Output
 <p align="center">
