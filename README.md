@@ -277,8 +277,11 @@ services:
 ## Sample Outputs
 
 
-[Web Dashboard](Multi-Camera-Fire-Smoke-Alert/result_Images
-/Screenshot 2026-08-10 120815.png)
+# Web Dashboard
+<p align="center">
+  <img src="Screenshot 2026-08-10 120815.png" alt="result_Images" width="800">
+</p>
+
 
 
 
