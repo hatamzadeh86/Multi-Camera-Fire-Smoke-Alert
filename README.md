@@ -277,7 +277,7 @@ services:
 ## Sample Outputs
 
 ### Web Dashboard
-![Uploading alert_FIRE_DETECTED_20260808_111709.jpg…]()
+result_Images/Screenshot 2026-08-10 120815.png
 
 
 ### Telegram Alert
